@@ -27,7 +27,8 @@ Based on the line chart displayed below, the following conclusions can be made:
    - Rural: $3,913.69 (6.6%)
 
 #### *Fig 1.1: Total Fare by City Type in Weekly bucket
-![PyBer_fare_summary](https://user-images.githubusercontent.com/70525492/95369076-8e48fb00-089c-11eb-92c7-da14979b3b55.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/70525492/95600528-e7896980-0a17-11eb-9b9c-4224b1fb64c4.png)
+
 
 ## **Summary**
 Business recommendations for addressing disparities among the city types
